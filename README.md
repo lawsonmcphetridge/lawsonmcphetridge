@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-Linked in https://www.linkedin.com/in/lawson-mcphetridge/
+https://www.linkedin.com/in/lawson-mcphetridge/
 
+<h1>About Me<h1>
+I am a Software Engineer who is focusing on HTML,CSS,React.js,Express.js. I am creative developer with a special touch for UI/UX.
 <!--
 **lawsonmcphetridge/lawsonmcphetridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
